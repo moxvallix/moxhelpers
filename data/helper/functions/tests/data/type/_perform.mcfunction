@@ -1,0 +1,12 @@
+function helper:tests/data/type/array
+function helper:tests/data/type/object
+function helper:tests/data/type/byte
+function helper:tests/data/type/short
+function helper:tests/data/type/int
+function helper:tests/data/type/long
+function helper:tests/data/type/float
+function helper:tests/data/type/double
+function helper:tests/data/type/json
+function helper:tests/data/type/invalid_json
+function helper:tests/data/type/string
+function helper:tests/data/type/unknown

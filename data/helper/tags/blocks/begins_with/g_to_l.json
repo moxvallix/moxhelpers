@@ -1,0 +1,12 @@
+ 
+{
+  "replace": false,
+  "values": [
+    "#helper:begins_with/g",
+    "#helper:begins_with/h",
+    "#helper:begins_with/i",
+    "#helper:begins_with/j",
+    "#helper:begins_with/k",
+    "#helper:begins_with/l"
+  ]
+}

@@ -1,0 +1,1 @@
+scoreboard objectives add helper.private dummy
